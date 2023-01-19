@@ -9,7 +9,7 @@
     
     - 3.5-Inch Color TFT Touch Screen 
     
-    - Makerbase robin nano v1.3 (STM32F407Vet6)
+    - Makerbase robin nano v1.3 (STM32F407VET6)
     
     - TMC 2208x4 driver
     
